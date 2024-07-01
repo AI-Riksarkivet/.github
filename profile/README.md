@@ -10,7 +10,7 @@ Find us here:
 <ul>
 <!--  <li>  Our <a href="https://github.com/Riksarkivet/dataplattform/wiki/Home-english-version" class="underline"> Github page</a>  for the Datalab at Riksarkivet  🔥 </li>  -->
   <li>  We share our models, demos and dataset here 👉  <a href="https://huggingface.co/Riksarkivet" class="underline"> Hugging Face</a> 🤗 </li> 
- <li>  And our open source code will be shared here on <a href="https://github.com/orgs/Swedish-National-Archives-AI-lab/repositories" class="underline">  Github </a> </li> 
+ <li>  And our open source code will be shared here on <a href="https://github.com/orgs/AI-Riksarkivet/repositories" class="underline">  Github </a> </li> 
 </ul>
 
 </p>
