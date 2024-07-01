@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Borg93/Riksarkivet_docs/main/docs/assets/fav-removebg-preview.png" width="20%" height="20%" align="right" />
+<img src="https://raw.githubusercontent.com/AI-Riksarkivet/.github/main/riks.png" width="20%" height="20%" align="right" />
 
 <h1> The Swedish National Archives </h1>
 <p>
